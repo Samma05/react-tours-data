@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rec6d6T3q5EBIdCfD",
+    "name": "Best of Paris in 7 Days Tour",
+    "info": "Experience the city of lights with our expert guide, visiting famous landmarks, tasting delicious French cuisine, and exploring hidden gems.",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "price": "1,995"
+  },
+  {
+    "id": "recIwxrvU9HfJR3B4",
+    "name": "Explore New York City",
+    "info": "From Times Square to Central Park, explore the best spots in NYC with our local expert guides.",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+    "price": "2,150"
+  },
+  {
+    "id": "recJLWcHScdUtI3ny",
+    "name": "Discover Tokyo",
+    "info": "Dive into the vibrant culture of Tokyo, enjoy authentic sushi, and visit ancient temples alongside modern skyscrapers.",
+    "image": "https://images.unsplash.com/photo-1549693578-d683be217e58",
+    "price": "2,750"
+  }
+]
