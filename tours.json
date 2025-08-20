@@ -1,36 +1,48 @@
-[
+const tours = [
   {
     id: 1,
     name: 'Paris Highlights',
     info: `Paris, the City of Light, is known for its art, fashion, gastronomy, and culture. 
-    Stroll along the Seine, visit the iconic Eiffel Tower, explore the Louvre, and enjoy cozy cafés. 
-    Paris is also famous for its historic architecture, charming streets, and vibrant nightlife. 
-    Whether you’re wandering through Montmartre or shopping in Le Marais, there’s always something 
-    new to discover in this enchanting city.`,
+Stroll along the Seine, visit the iconic Eiffel Tower, explore the Louvre, and enjoy cozy cafés. 
+Paris is also famous for its historic architecture, charming streets, and vibrant nightlife. 
+Whether you’re wandering through Montmartre or shopping in Le Marais, there’s always something new to discover in this enchanting city.`,
     image: 'https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=800&q=60',
     price: 1999,
   },
   {
     id: 2,
     name: 'Tokyo Adventure',
-    info: `Tokyo blends ultramodern and traditional seamlessly. Experience neon-lit skyscrapers, 
-    historic temples, bustling markets, and world-class cuisine. Take a stroll in Shinjuku Gyoen, 
-    visit the Meiji Shrine, enjoy sushi at Tsukiji Market, and explore Akihabara for electronics and anime culture. 
-    With endless districts to explore, Tokyo promises excitement around every corner.`,
+    info: `Tokyo blends ultramodern and traditional seamlessly. Experience neon-lit skyscrapers, historic temples, bustling markets, and world-class cuisine. 
+Take a stroll in Shinjuku Gyoen, visit the Meiji Shrine, enjoy sushi at Tsukiji Market, and explore Akihabara for electronics and anime culture. 
+With endless districts to explore, Tokyo promises excitement around every corner.`,
     image: 'https://images.unsplash.com/photo-1559181567-c3190ca9959b?auto=format&fit=crop&w=800&q=60',
     price: 1499,
   },
   {
     id: 3,
     name: 'New York City Explorer',
-    info: `The Big Apple is a city that never sleeps. Marvel at the skyline from the Empire State Building, 
-    walk through Central Park, catch a Broadway show, and discover the diverse neighborhoods of Manhattan, Brooklyn, 
-    and Queens. NYC offers world-class museums, iconic landmarks like Times Square and the Statue of Liberty, 
-    and a food scene that’s unmatched anywhere else in the world. There’s something for everyone here.`,
+    info: `The Big Apple is a city that never sleeps. Marvel at the skyline from the Empire State Building, walk through Central Park, catch a Broadway show, and discover the diverse neighborhoods of Manhattan, Brooklyn, and Queens. 
+NYC offers world-class museums, iconic landmarks like Times Square and the Statue of Liberty, and a food scene that’s unmatched anywhere else in the world. 
+There’s something for everyone here.`,
     image: 'https://images.unsplash.com/photo-1549921296-3a1e76f173d4?auto=format&fit=crop&w=800&q=60',
     price: 1299,
   },
+  {
+    id: 4,
+    name: 'Sydney Wonders',
+    info: `Sydney, Australia, is famous for its stunning harbor, the Sydney Opera House, and beautiful beaches. 
+Explore Bondi Beach, climb the Sydney Harbour Bridge, and enjoy the vibrant city life with cafes, markets, and cultural events. 
+From coastal walks to world-class dining, Sydney offers an unforgettable experience for travelers.`,
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60',
+    price: 1599,
+  }
 ];
+
+// Use it directly in your code
+export default tours;
+
+];
+
 
 
 
